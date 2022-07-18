@@ -1,0 +1,107 @@
+.titulo_principal {
+        font-family: "Staatliches", cursive;
+        font-size: 70px;
+        line-height: 18;
+        color: #FFB300;
+        font-weight: 400;
+        display: ruby-text;
+        display: ruby-text-container
+}
+
+.macarrao_img {
+
+        display: flex;
+        margin-left: 50px;
+}
+
+#caja1 {
+        border: 1px solid;
+        width: 400px;
+        height: auto;
+        text-align: center;
+        margin-top: 60px;
+        margin-left: 35px;
+        font-family: "Staatliches", cursive;
+        font-size: 20px;
+}
+
+#tempo {
+
+        font-size: 20px;
+        color: black;
+        margin-left: 10px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+
+}
+
+#porcao {
+
+        font-size: 20px;
+        color: black;
+        margin-left: 10px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+
+}
+
+#lista_ordenada {
+        border: 1px solid;
+        font-size: 20px;
+        color: black;
+        margin-left: 10px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+        width: 400px;
+}
+
+#ingre {
+        text-align: center;
+        color: #FFB300;
+
+}
+
+#numerica {
+
+        border: 1px solid;
+        font-size: 20px;
+        color: black;
+        margin-left: 10px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+        width: 400px;
+}
+
+#preparo {
+
+        text-align: center;
+        color: #FFB300;
+
+}
+
+#video {
+        text-align: left;
+        color: #FFB300;
+        font-size: 20px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+        margin-left: 190px;
+}
+
+#topo {
+        color: #FFB300;
+        font-size: 50px;
+        font-weight: bolder;
+        font-family: "Staatliches", cursive;
+
+}
+
+.fin {
+        color: #FFB300;
+        font-size: 40px;
+        font-family: "Staatliches", cursive;
+        width: 300px;
+        margin-left: 65px;
+        border-radius: 20px;
+        border: solid 10px;
+}
